@@ -4,11 +4,10 @@ This repository is a personal collection of theory knowledge, reusable code snip
 Its purpose is to serve as a central toolbox, making it easy to reuse common building blocks while learning or working on new projects.
 
 ## 📋 Table of Contents
-
-- #-purpose
-- #-structure
-- #-how-to-use
-- #-notes
+- [🎯 Purpose](#-purpose)
+- [📁 Structure](#-structure)
+- [🚀 How to Use](#-how-to-use)
+- [📝 Notes](#-notes)
 
 ## 🎯 Purpose
 
